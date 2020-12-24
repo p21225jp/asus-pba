@@ -40,7 +40,7 @@
 		background-image:url('https://img11.360buyimg.com/cms/jfs/t1/137727/15/19975/386801/5fe402d7E532e151e/8e6ece2fe3d09090.jpg');
 	}
 	.nut-row {
-		padding-top:50px;
+		padding-top:150px;
 	}
 	.ROG-logo {
 		margin-top: 100px;

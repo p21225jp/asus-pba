@@ -1,11 +1,11 @@
 <template>
 	<div class="contain">
-		<nut-navbar @on-click-back="goBack" :rightShow="false"><a class="fanhui" slot="left" @click="goBack">返回</a>{{goods_info[$route.params.id].title}}</nut-navbar>
-		<nut-tab>
+		<nut-tab position-nav="bottom">
 		    <nut-tab-panel v-for="(item,index) in goods_info[$route.params.id].goods" :tab-title="item.name" :key="index">
 		    	<img :src="item.img" alt="">
 			</nut-tab-panel>
 		</nut-tab>
+		<nut-navbar @on-click-back="goBack" :rightShow="false"><a class="fanhui" slot="left" @click="goBack">返回</a>{{goods_info[$route.params.id].title}}</nut-navbar>
 	</div>
 </template>
 <script>
@@ -41,11 +41,13 @@
 	}
 	.nut-tab {
 		padding: 0;
-		border: 0;
 	}
 	.nut-navbar {
 	    height: 50px;
 	    line-height: 50px;
+	    position: fixed;
+	    bottom: 0;
+	    width: 100%;
 	}
 	.nut-navbar .fanhui {
 		vertical-align: middle;
@@ -59,5 +61,9 @@
 	.nut-tab-item {
 		height: 100%;
 		padding: 0;
+	}
+	.nut-tab-title-bottomnav {
+		position: fixed;
+    	bottom: 49px;
 	}
 </style>
