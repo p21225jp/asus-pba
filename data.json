@@ -1,0 +1,83 @@
+{
+	"cate": [
+	    {
+	    	"name" :"gundam",
+	    	"title" :"高达联名套装",
+			"imgurl": "https://img12.360buyimg.com/cms/jfs/t1/150827/27/12051/252232/5fe40da8E859ac36d/92ec71e20d51f415.png",
+			"goods": [
+				{
+					"name" :"高达套装-INTEL",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/143969/14/18880/437975/5fdc4954E67900af6/0575e38d79127ff7.jpg"
+				},
+				{
+					"name" :"扎古套装-AMD",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/141374/24/18957/288667/5fdc4954Ec469ae56/11f5049e5a85df13.jpg"
+				}
+			]
+		},
+		{
+			"name" :"rog",
+			"title" :"ROG全家桶",
+			"imgurl": "//img14.360buyimg.com/cms/jfs/t1/147476/39/19599/191853/5fe40da8E296b3e7d/5d023a8e8f4577ac.png",
+			"goods": [
+				{
+					"name" :"ROG全家桶1-INTEL",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/145515/14/18969/689324/5fdc4d56Edd09a431/548432a490a32ea0.jpg"
+				},
+				{
+					"name" :"ROG全家桶2-INTEL",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/140523/13/18843/636764/5fdc4d56Ee7c3a01a/66fee144d5d78bc2.jpg"
+				},
+				{
+					"name" :"ROG全家桶3-AMD",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/135729/35/20602/615002/5fdc4d56E3893b5ec/90c64be21f26088b.jpg"
+				}
+			]
+		},
+		{
+			"name" :"tuf",
+			"title" :"TUF全家桶",
+			"imgurl": "//img11.360buyimg.com/cms/jfs/t1/138373/19/19851/205323/5fe40da8E299bdd4c/83d1fa56d0ac131f.png",
+			"goods": [
+				{
+					"name" :"TUF全家桶1-INTEL",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/148907/40/18950/675165/5fdc4d58E0ed945e7/114458ad6cd33ba0.jpg"
+				},
+				{
+					"name" :"TUF全家桶2-AMD",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/141861/24/18986/674694/5fdc4d58E83dd77de/c4ea89dd3e3d1b64.jpg"
+				}
+			]
+		},
+		{
+			"name" :"family",
+			"title" :"家用办公",
+			"imgurl": "//img13.360buyimg.com/cms/jfs/t1/139355/1/19829/146500/5fe40da8E18b7a20a/022cd8ab165968f1.png",
+			"goods": [
+				{
+					"name" :"家用办公1",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/131033/36/20445/455744/5fdc4d58E26d81367/eb5e9264d43232fe.jpg"
+				},
+				{
+					"name" :"家用办公2",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/129708/27/20205/459571/5fdc4d59Ef6928c0e/e0bebb5de2248c9a.jpg"
+				},
+				{
+					"name" :"入门吃鸡",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/144696/28/19237/358138/5fdc4d59Ec9cce7e6/78d7e1872ad6f4ec.jpg"
+				}
+			]
+		},
+		{
+			"name" :"proart",
+			"title" :"设计师专享套餐",
+			"imgurl": "//img14.360buyimg.com/cms/jfs/t1/142471/32/19884/206865/5fe40da8E187c3976/aff01fe48ed24aa7.png",
+			"goods": [
+				{
+					"name" :"设计师专享套餐",
+					"img" :"https://img10.360buyimg.com/imgzone/jfs/t1/142287/16/19021/290716/5fdc4d59Ed5359822/ddddd6a45db43d11.jpg"
+				}
+			]
+		}
+	]
+}
