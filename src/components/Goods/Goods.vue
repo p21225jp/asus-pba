@@ -1,5 +1,5 @@
 <template>
-	<div class="contain">
+	<div class="contain" v-if="goods_info[$route.params.id]">
 		<nut-tab position-nav="bottom">
 		    <nut-tab-panel v-for="(item,index) in goods_info[$route.params.id].goods" :tab-title="item.name" :key="index">
 		    	<img :src="item.img" alt="">

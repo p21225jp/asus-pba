@@ -1,5 +1,5 @@
 <template>
-	<div class="Cate">
+	<div class="Cate" v-if="goods">
 			<nut-row>
 				<router-link :to="'/goods/'+index" v-for="(item,index) in goods" :key = "index">
 				    <nut-col :span="24">
