@@ -25,6 +25,7 @@ export default {
   height: 1920px;
   margin: 0 auto;
   padding: 0;
+  position: relative;
 }
 #app img {
   max-width: 100%;
