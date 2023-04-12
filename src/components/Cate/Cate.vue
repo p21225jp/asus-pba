@@ -4,16 +4,11 @@
 			  	<div class="touch-dom"><img src="//img11.360buyimg.com/cms/jfs/t1/165243/22/14390/1711/605048faE37859777/eb03580a3eb8a792.png" alt=""></div>
 			</nut-drag>
 			<nut-row>
-				<div class="gundam gundam-zagu"><img src="./zagu.png" alt=""></div>
-				<div class="gundam gundam-rx78"><img src="./rx78-2.png" alt=""></div>
 				<router-link :to="'/goods/'+index" v-for="(item,index) in goods" :key = "index">
 				    <nut-col :span="24">
 				    	<img :src="item.imgurl" alt="">
 				    </nut-col>
 				</router-link>
-				<nut-col :span="24" class="ROG-logo">
-					<img src="https://img13.360buyimg.com/cms/jfs/t1/144822/23/20000/11311/5fe42e92E7166462e/f7f34cbbfc1f42c5.png" alt="">
-				</nut-col>
 			</nut-row>
 		</div>
 		
@@ -66,7 +61,7 @@
 		position: relative;
 	}
 	.nut-row {
-		padding-top:150px;
+		padding-top:250px;
 	}
 	.ROG-logo {
 		margin-top: 100px;

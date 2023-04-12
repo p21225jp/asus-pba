@@ -1,81 +1,44 @@
 {
 	"cate": [
-	    {
-	    	"name" :"gundam",
-	    	"title" :"高达联名套装",
-			"imgurl": "https://img12.360buyimg.com/cms/jfs/t1/150827/27/12051/252232/5fe40da8E859ac36d/92ec71e20d51f415.png",
-			"goods": [
-				{
-					"name" :"高达套装-INTEL",
-					"img" :"https://img13.360buyimg.com/cms/jfs/t1/166651/18/3620/488208/600fd666E5b89fbcc/baf7cdd98395daa3.jpg"
-				},
-				{
-					"name" :"扎古套装-AMD",
-					"img" :"https://img11.360buyimg.com/cms/jfs/t1/152667/2/15467/456828/600fd666Eb3461039/1dc9088d27732b77.jpg"
-				}
-			]
-		},
 		{
 			"name" :"rog",
 			"title" :"ROG全家桶",
-			"imgurl": "//img14.360buyimg.com/cms/jfs/t1/147476/39/19599/191853/5fe40da8E296b3e7d/5d023a8e8f4577ac.png",
+			"imgurl": "//img11.360buyimg.com/cms/jfs/t1/212253/29/28223/84086/643680c7F535f9fe0/9527a3bf07be9b42.png",
 			"goods": [
 				{
-					"name" :"ROG全家桶1-INTEL",
-					"img" :"https://img14.360buyimg.com/cms/jfs/t1/158377/1/5054/693491/600fd666E8d0de401/c816b86f461e907d.jpg"
+					"name" :"ROG全家桶1",
+					"img" :"//img14.360buyimg.com/cms/jfs/t1/113484/7/34327/281061/6436826fFd399085a/31c8e0d2933fb163.jpg"
 				},
 				{
-					"name" :"ROG全家桶2-INTEL",
-					"img" :"https://img10.360buyimg.com/cms/jfs/t1/155794/9/7752/639336/600fd666E28d930e9/6455b48f2026fb7d.jpg"
+					"name" :"ROG全家桶2",
+					"img" :"//img12.360buyimg.com/cms/jfs/t1/161079/38/31515/282922/6436826fF64e22fc4/1b17587430f1116a.jpg"
 				},
 				{
-					"name" :"ROG全家桶3-AMD",
-					"img" :"https://img12.360buyimg.com/cms/jfs/t1/171329/7/4313/610756/600fd666E8d910e41/f50a362ff5364dbd.jpg"
+					"name" :"ROG全家桶3",
+					"img" :"//img12.360buyimg.com/cms/jfs/t1/132056/30/32384/279186/6436826fF1b0d8ff7/9c1f0f3ac56b6538.jpg"
+				},
+				{
+					"name" :"ROG全家桶4",
+					"img" :"//img11.360buyimg.com/cms/jfs/t1/79190/36/25580/280841/6436826fF5e294b7f/a39803201f6ef052.jpg"
+				},
+				{
+					"name" :"ROG全家桶5",
+					"img" :"//img13.360buyimg.com/cms/jfs/t1/173975/11/35521/275499/64368270F4fe787c5/08732758eaf4a4f6.jpg"
+				},
+				{
+					"name" :"ROG全家桶6",
+					"img" :"//img12.360buyimg.com/cms/jfs/t1/53330/39/18475/279728/64368270F3b83778d/4873689f6ab8b464.jpg"
 				}
 			]
 		},
 		{
 			"name" :"tuf",
 			"title" :"TUF全家桶",
-			"imgurl": "//img11.360buyimg.com/cms/jfs/t1/138373/19/19851/205323/5fe40da8E299bdd4c/83d1fa56d0ac131f.png",
+			"imgurl": "//img13.360buyimg.com/cms/jfs/t1/99654/2/35672/63090/643680c7F6beb820b/3cfc0dbe89f4954c.png",
 			"goods": [
 				{
-					"name" :"TUF全家桶1-INTEL",
-					"img" :"https://img12.360buyimg.com/cms/jfs/t1/164959/10/4411/677582/600fd666E3e3285f8/8103b22aa27fb78c.jpg"
-				},
-				{
-					"name" :"TUF全家桶2-AMD",
-					"img" :"https://img11.360buyimg.com/cms/jfs/t1/150761/34/16745/403501/600fd666E82309dca/29a6025f54401c61.jpg"
-				}
-			]
-		},
-		{
-			"name" :"family",
-			"title" :"家用办公",
-			"imgurl": "//img13.360buyimg.com/cms/jfs/t1/139355/1/19829/146500/5fe40da8E18b7a20a/022cd8ab165968f1.png",
-			"goods": [
-				{
-					"name" :"家用办公1",
-					"img" :"https://img12.360buyimg.com/cms/jfs/t1/166187/31/3769/484682/600fd666E1184f251/59037e1aeea809c5.jpg"
-				},
-				{
-					"name" :"家用办公2",
-					"img" :"https://img12.360buyimg.com/cms/jfs/t1/169061/32/4367/492361/600fd666Eb2164443/a3f829596322bf16.jpg"
-				},
-				{
-					"name" :"入门吃鸡",
-					"img" :"https://img10.360buyimg.com/cms/jfs/t1/158311/14/4996/603115/600fd666Efd52a355/8cd5091a471d89d3.jpg"
-				}
-			]
-		},
-		{
-			"name" :"proart",
-			"title" :"设计师专享套餐",
-			"imgurl": "//img14.360buyimg.com/cms/jfs/t1/142471/32/19884/206865/5fe40da8E187c3976/aff01fe48ed24aa7.png",
-			"goods": [
-				{
-					"name" :"设计师专享套餐",
-					"img" :"https://img13.360buyimg.com/cms/jfs/t1/152166/33/16250/305441/600fd666Efc34c856/daea8b0f131824c2.jpg"
+					"name" :"TUF全家桶1",
+					"img" :"//img12.360buyimg.com/cms/jfs/t1/170735/15/37554/246739/64368270F0aa72c65/129ad1d458803962.jpg"
 				}
 			]
 		}
